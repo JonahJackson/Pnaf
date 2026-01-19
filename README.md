@@ -1,2 +1,2 @@
 # Pnaf
-Fnaf Clone that works as a client app so no gui needed made using python
+Fnaf Clone that works as a cli app so no gui needed made using python
